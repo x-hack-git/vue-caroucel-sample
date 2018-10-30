@@ -2,6 +2,8 @@
 
 ユーザー切り替えたいのだが・・・
 
-ソースツリーで複数のユーザーを使う
+- ソースツリーで複数のユーザーを使う
 http://mattsudev.hatenablog.com/entry/2015/06/19/182416
+
+- アカウント
 git@github.com:x-hack-git/vue-caroucel-sample.git
